@@ -1,5 +1,6 @@
 # Sentiment Analysis in Python
 
+### Link to the dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 ## Overview
 This project performs sentiment analysis on the **Amazon Fine Food Reviews** dataset using two different techniques:
 1. **VADER (Valence Aware Dictionary and Sentiment Reasoner)** - A lexicon and rule-based sentiment analysis tool.
